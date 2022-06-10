@@ -1,0 +1,114 @@
+body{
+    background-color: #000;
+
+
+}
+.navigation {
+    margin-top: 40px;
+    line-height: 40px;
+    margin-right: 20px;
+    float: left;
+
+}
+
+    .navigation a {
+        color: white;
+        font-size: 20px;
+        text-decoration: none;
+      }
+      .header1{
+          text-align: center;
+      }
+      .header2{
+          /* text-align: center; */
+      }
+      .image-about{
+          /* background-color: rgb(230, 23, 23); */
+          margin-left: 2rem;
+          margin-top: 4rem;
+          border: 5px solid #ffc107;
+          width: 40%;
+          height: 60vh;
+          margin-right:10rem ;
+
+      }
+      img {
+          transform: scale(1.1);
+          
+           margin-right: 3rem; 
+           margin-bottom: 2rem;
+      }
+      .all-about{
+          display: flex;
+          
+          
+      }
+      .about-content{
+          color: white;
+          display:flex ;
+          margin-top: 4rem;
+          font-family: 'Open Sans', sans-serif;
+          font-weight: 400;
+          font-size: 16px;
+          opacity: .8;
+         }
+         .about-content ul{
+             list-style-type: none;
+
+         }
+         .btn {
+            color: white;
+            background-color:  #ffc107;
+            padding: 1rem;
+            border: none;
+            border-radius: 30px;
+            margin: 10px;
+            width: 12rem;
+            
+          }
+          .btn:hover {
+            background-color: gray;
+          }
+
+          .experience h1{
+              color: white;
+              padding-left: 10rem ;
+              font-size: 25px;
+
+          }
+          .education h1{
+              color: white;
+              
+              font-size: 25px;
+
+          }
+          .about-content2{
+              display: flex;
+              
+          }
+          .experience{
+              width: 50%;
+          }
+          .education{
+              width: 50%;
+          }
+          .experience-sides{
+              display: flex;
+          }
+          .experience-side2{
+              margin-left: 20px;
+          }
+          .experience-side2 p{
+            font-family: 'Open Sans', sans-serif;
+            font-size: 14px;
+            margin: 0;
+            line-height: 28px;
+          }
+          .about-containe3 h1{
+              color: white;
+              font-size: 20px;
+              font-family: 'Open Sans', sans-serif;
+           
+            margin: 0;
+            line-height: 28px;
+          }
